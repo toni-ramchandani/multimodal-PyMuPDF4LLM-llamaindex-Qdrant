@@ -19,3 +19,18 @@ The PDF Content Extraction and Retrieval App allows users to upload PDF document
 - **Qdrant**: For storing and retrieving vector representations of text and images.
 - **LlamaIndex**: For managing documents and indices efficiently.
 - **Matplotlib**: For visualizing retrieved images.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/toni-ramchandani/multimodal-PyMuPDF4LLM-llamaindex-Qdrant.git
+   cd pdf-extraction-app
+   pip install -r requirements.txt
+   streamlit run app.py
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request if you have suggestions for improvements or new features.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
