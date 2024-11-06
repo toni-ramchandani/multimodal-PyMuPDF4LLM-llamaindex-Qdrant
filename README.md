@@ -27,6 +27,7 @@ The PDF Content Extraction and Retrieval App allows users to upload PDF document
    cd pdf-extraction-app
    pip install -r requirements.txt
    streamlit run app.py
+   ```
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions for improvements or new features.
