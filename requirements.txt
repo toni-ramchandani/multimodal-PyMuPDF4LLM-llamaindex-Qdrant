@@ -1,0 +1,6 @@
+streamlit
+pymupdf4llm
+qdrant-client
+llama-index
+matplotlib
+Pillow
