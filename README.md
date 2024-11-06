@@ -22,7 +22,6 @@ The PDF Content Extraction and Retrieval App allows users to upload PDF document
 
 ## Installation
 
-1. Clone the repository:
    ```bash
    git clone https://github.com/toni-ramchandani/multimodal-PyMuPDF4LLM-llamaindex-Qdrant.git
    cd pdf-extraction-app
